@@ -11,10 +11,10 @@ A modern full-stack marketplace designed to connect customers with local vendors
     <img src="https://img.shields.io/badge/Live%20Demo-VendorHub-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/adarshsingh31">
-    <img src="https://img.shields.io/badge/GitHub-Adarsh%20Singh-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Sanika%20Shah-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/adarsh-singh-936380341/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanika%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
